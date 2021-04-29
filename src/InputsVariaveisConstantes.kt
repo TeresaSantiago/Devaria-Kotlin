@@ -1,5 +1,4 @@
-fun main(argumentos : Array<String>)
-{
+fun main(argumentos : Array<String>) {
     if(argumentos.isEmpty())
     {
         println("Favor informar um argumento válido.")
